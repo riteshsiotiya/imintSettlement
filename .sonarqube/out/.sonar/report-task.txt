@@ -1,0 +1,6 @@
+projectKey=imintsettlement
+serverUrl=https://sonar.bms.bz
+serverVersion=6.7.1.35068
+dashboardUrl=https://sonar.bms.bz/dashboard/index/imintsettlement
+ceTaskId=AWWo04OZPOBvhEeNbhKd
+ceTaskUrl=https://sonar.bms.bz/api/ce/task?id=AWWo04OZPOBvhEeNbhKd

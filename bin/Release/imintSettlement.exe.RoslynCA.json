@@ -1,0 +1,1094 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "1.3.1.0",
+        "fileVersion": "1.3.1.60616",
+        "semanticVersion": "1.3.1",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move the type 'clsimintSettlementProcessor' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 9,
+                  "endLine": 18,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 21,
+                  "endLine": 68,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 129,
+                  "startColumn": 21,
+                  "endLine": 129,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/Program.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 7,
+                  "endLine": 6,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move the type 'Program' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/Program.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 7,
+                  "endLine": 6,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S126",
+          "level": "warning",
+          "message": "Add the missing 'else' clause.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 211,
+                  "startColumn": 13,
+                  "endLine": 211,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/Program.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 101,
+                  "endLine": 20,
+                  "endColumn": 108
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/Program.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 49,
+                  "endLine": 25,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/Program.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 33,
+                  "endLine": 37,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/Program.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 153,
+                  "endLine": 44,
+                  "endColumn": 160
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'objDir'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/Program.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 24,
+                  "endLine": 61,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'objFileInfo'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/Program.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 29,
+                  "endLine": 60,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1659",
+          "level": "warning",
+          "message": "Declare 'strEmailListCC' in a separate statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 200,
+                  "startColumn": 35,
+                  "endLine": 200,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3257",
+          "level": "warning",
+          "message": "Remove the array type; it is redundant.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 66,
+                  "endLine": 217,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "diagnosticType": "ArrayType"
+            }
+          }
+        },
+        {
+          "ruleId": "S3257",
+          "level": "warning",
+          "message": "Remove the array type; it is redundant.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 225,
+                  "startColumn": 70,
+                  "endLine": 225,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "diagnosticType": "ArrayType"
+            }
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'objMail'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 237,
+                  "startColumn": 21,
+                  "endLine": 237,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S126",
+          "level": "warning",
+          "message": "Add the missing 'else' clause.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 17,
+                  "endLine": 86,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 58,
+                  "endLine": 27,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 44,
+                  "endLine": 46,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 37,
+                  "endLine": 48,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 50,
+                  "endLine": 53,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1659",
+          "level": "warning",
+          "message": "Declare 'strSettlementDate' in a separate statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 34,
+                  "endLine": 38,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'stwSettlement'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 183,
+                  "startColumn": 31,
+                  "endLine": 183,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'stwSettlement'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 187,
+                  "startColumn": 31,
+                  "endLine": 187,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 75,
+                  "endLine": 59,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 73,
+                  "endLine": 65,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 84,
+                  "endLine": 69,
+                  "endColumn": 95
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 74,
+                  "endLine": 72,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 73,
+                  "endLine": 79,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 73,
+                  "endLine": 81,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 75,
+                  "endLine": 91,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 73,
+                  "endLine": 97,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 84,
+                  "endLine": 100,
+                  "endColumn": 95
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 74,
+                  "endLine": 103,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 73,
+                  "endLine": 110,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 73,
+                  "endLine": 112,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 75,
+                  "endLine": 120,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 126,
+                  "startColumn": 73,
+                  "endLine": 126,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 74,
+                  "endLine": 134,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 142,
+                  "startColumn": 73,
+                  "endLine": 142,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1858",
+          "level": "warning",
+          "message": "There's no need to call 'ToString()', the compiler will do it for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 144,
+                  "startColumn": 73,
+                  "endLine": 144,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove this unused 'arlPaymentId' local variable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GitProjects/BookMyShow/payment/imintsettlement/clsimintSettlementProcessor.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 19,
+                  "endLine": 40,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated. Even abstract utility classes, which can be extended, should not have public constructors.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1125": {
+          "id": "S1125",
+          "shortDescription": "Boolean literals should not be redundant",
+          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be \"commented out\"",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S126": {
+          "id": "S126",
+          "shortDescription": "\"if ... else if\" constructs should end with \"else\" clauses",
+          "fullDescription": "This rule applies whenever an if statement is followed by one or more else if statements; the final else if should be followed by an else statement.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-126",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1659": {
+          "id": "S1659",
+          "shortDescription": "Multiple variables should not be declared on the same line",
+          "fullDescription": "Declaring multiple variable on one line is difficult to read.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1659",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1854": {
+          "id": "S1854",
+          "shortDescription": "Dead stores should be removed",
+          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it's not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1858": {
+          "id": "S1858",
+          "shortDescription": "\"ToString()\" calls should not be redundant",
+          "fullDescription": "Invoking a method designed to return a string representation of an object which is already a string is a waste of keystrokes. Similarly, explicitly invoking ToString() when the compiler would do it implicitly is also needless code-bloat.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1858",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3257": {
+          "id": "S3257",
+          "shortDescription": "Declarations and initializations should be as concise as possible",
+          "fullDescription": "Unnecessarily verbose declarations and initializations make it harder to read the code, and should be simplified.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3257",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3903": {
+          "id": "S3903",
+          "shortDescription": "Types should be defined in named namespaces",
+          "fullDescription": "Types are declared in namespaces in order to prevent name collisions and as a way to organize them into the object hierarchy. Types that are defined outside any named namespace are in a global namespace that cannot be referenced in code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3903",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
